@@ -1,7 +1,7 @@
 Hi there 👋  I'm Zhehao Lu
 
 - 🌱 MS Student from Northwestern University (Mechanical Engineering)
-- 👀 Interested in Robotics & Control, Computer Vision, Artificial Intelligence
+- 👀 Interested in Robotics & Control, SLAM, Computer Vision
 - 💞️ Email me at zhehaolu2022@u.northwestern.edu
 
 <!---
